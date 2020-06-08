@@ -11,3 +11,10 @@
   src: url("Cascadia.woff2");
   font-display: swap;
 }
+
+/* https://www.freechinesefont.com/simplified-traditional-hanyi-senty-candy/ */
+@font-face {
+  font-family: "Hanyi";
+  src: url("Hanyi Senty Candy-color.ttf");
+  font-display: swap;
+}

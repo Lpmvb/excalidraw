@@ -124,6 +124,10 @@ export const exportToSvg = (
         font-family: "Cascadia";
         src: url("https://excalidraw.com/Cascadia.woff2");
       }
+      @font-face {
+        font-family: "Hanyi";
+        src: url("https://excalidraw.com/Hanyi Senty Candy-color.ttf");
+      }
     </style>
   </defs>
   `;
