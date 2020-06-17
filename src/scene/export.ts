@@ -126,7 +126,7 @@ export const exportToSvg = (
       }
       @font-face {
         font-family: "Hanyi";
-        src: url("https://excalidraw.com/Hanyi Senty Candy-color.ttf");
+        src: url("https://excalidraw.com/Hanyi Senty Candy.woff2");
       }
     </style>
   </defs>
